@@ -1,27 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Sagar Kumar Chaubey!
 
-- 🔭 I’m currently working on an AI bot named Aarohi, she is your mental health companion.
-- 🌱 I’m currently learning Prompt Engineering and AI Engineering.
-- 👯 I’m looking to collaborate on my project - Aarohi - Your Personal Mental Health Companion.
-- 🤔 I’m looking for help with, everything I guess, just kidding, I Don't know for now.
-- 💬 Ask me about, Nah, nothing, don't ask me anything... or ask me anything.
-- 📫 How to reach me: LinkedIn/Instagram : sagarkrchaubey
-- 😄 Pronouns: He/His.
-- ⚡ Fun fact: 1.To be a good prompter, you have to be a great cook (because every AI has its own flavors it likes).
-- ⚡ Fun fact: 2.Nowadays, AI be like, "Bro, trust me, this is the shortcut." (A few moments later... in a dump.)
+I'm a **Low-Code Web Developer**, **AI Developer (Python-powered)**, and **Quantum Computing Enthusiast**.  
+I love building tomorrow's technology today and am on a journey to shape the future of tech, one line of code at a time. 🚀
 
+## What I'm Working On:
+
+- 🔍 Exploring **Quantum Computing** and how it’ll reshape the tech landscape.
+- 🤖 Creating **AI applications** with **Python**.
+- 🌐 Designing intuitive **low-code web solutions** to streamline development.
 <!--
-**sagarkrchaubey/sagarkrchaubey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages and Tools:
 
-Here are some ideas to get you started:
+- 💻 **Languages**: Python, JavaScript, HTML, CSS  
+- ⚙️ **Frameworks**: Flask, React, Django  
+- 🛠️ **Tools**: Git, Docker, Firebase, Visual Studio Code  
+- 🧠 **AI Tools**: TensorFlow, PyTorch, OpenAI API
 
-- 🔭 I’m currently working on an AI bot named Aarohi, she is your mental health companion.
-- 🌱 I’m currently learning Prompt Engineering.
-- 👯 I’m looking to collaborate on my project - sukoon_saathi, there is Aarohi inside this project
-- 🤔 I’m looking for help with, everything I guess, just kidding, I Don't know for now.
-- 💬 Ask me about, Nah, nothing, don't ask me anything, or ask me anything.
-- 📫 How to reach me: LinkedIn/Insta : sagarkrchaubey
-- 😄 Pronouns: He/His.
-- ⚡ Fun fact: 1.Prompting is more like "Adjust, adjust, adjust!" because every AI has a different opinion on what "spicy" means.
-                2.Prompting is like asking your auto driver for directions, you might get a helpful answer, or end up somewhere entirely unexpected with a "trust me, this is the shortcut" explanation!
+## Pinned Projects:
+Check out some of my projects to see my work in action:  
+- 🚀 [AI Application Portfolio](link-to-repo)  
+- 🌐 [Low-Code Web App](link-to-repo)  
+- ⚛️ [Quantum Computing Research](link-to-repo)  
 -->
+## Connect with Me:
+
+- 📧 sagarchaubey160501@gmail.com 
+- 🧑‍💻 https://www.linkedin.com/in/sagar-kumar-chaubey-970278198/
+
+## More About Me:
+
+I’m currently learning and exploring the vast world of **quantum computing** while also focusing on **AI development with Python**. When I’m not coding, I enjoy diving into the latest tech trends and finding innovative ways to push boundaries in the world of software development.
+
